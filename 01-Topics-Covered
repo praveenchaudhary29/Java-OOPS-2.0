@@ -1,1 +1,67 @@
+---->OOPs topics to prepare<-----
 
+
+1)Classes & Objects ⭐
+     Constructors
+     Instance vs static members
+     this keyword
+     Object lifecycle
+2)4 Pillars of OOP ⭐
+     Encapsulation
+     Abstraction
+     Inheritance
+     Polymorphism
+3)Inheritance ⭐
+     extends
+     Method overriding
+     super
+     Constructor chaining
+     Types of inheritance supported in Java
+4)Polymorphism ⭐
+     Compile-time → method overloading
+     Runtime → method overriding
+     Upcasting / downcasting
+     Dynamic method dispatch
+5)Abstraction ⭐
+     Abstract classes
+     Interfaces
+     Abstract class vs interface
+     Default/static methods in interfaces
+6)Encapsulation ⭐
+     Access modifiers
+     Getters/setters
+     Immutable classes
+     Why fields should often be private
+7)Java-specific OOP ⭐
+     final
+     static
+     this vs super
+     == vs .equals()
+     hashCode()
+     Object class
+     Composition vs inheritance
+8)SOLID Principles ⭐
+     Single Responsibility
+     Open/Closed
+     Liskov Substitution
+     Interface Segregation
+     Dependency Inversion
+9)Design Patterns ⭐
+     Singleton
+     Factory
+     Builder
+     Strategy
+     Observer
+     Decorator
+     Adapter
+10)Low-Level Design (LLD) ⭐⭐⭐
+     This is where OOP becomes especially important:
+     Parking Lot
+     Library Management System
+     ATM
+     Elevator
+     Tic-Tac-Toe
+     Chess
+     Snake & Ladder
+     Vending Machine
+     Cab/ride-booking system
