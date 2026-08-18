@@ -1,0 +1,1 @@
+A structured collection of Java Object-Oriented Programming concepts, examples, and practice problems covering encapsulation, inheritance, polymorphism, abstraction, interfaces, SOLID principles, design patterns, and Low-Level Design (LLD), with a focus on software engineering and FAANG-style interviews.
